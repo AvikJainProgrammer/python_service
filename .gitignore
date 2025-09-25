@@ -1,4 +1,6 @@
 time_log.txt
 log.txt
+folder_log.txt
 venv/
 __pycache__/
+monitor/
